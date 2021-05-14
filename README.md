@@ -6,7 +6,6 @@ Atualmente estou estudando NodeJS e ReactJS, pois procuro focar no desenvolvimen
 Mas também tenho conhecimento básico em React Native, Angular, Vue.js, HTML, CSS, C, Java e Spring. Além disso, tenho conhecimento de Git, GitHub e API REST.
 
 ### Tecnologias
-https://raw.githubusercontent.com/devicons/devicon/master/icons/-original.svg
 
 <div style="display: inline_block"><br>
 <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
